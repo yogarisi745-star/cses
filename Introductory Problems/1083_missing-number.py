@@ -7,3 +7,7 @@ def solve() -> None:
     print(expected_sum - actual_sum)
 if __name__ == "__main__":
     solve()
+
+
+# to find missing no 
+ subtract the sum of the given numbers from the sum of first n natural numbers.
