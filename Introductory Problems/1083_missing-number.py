@@ -9,5 +9,4 @@ if __name__ == "__main__":
     solve()
 
 
-# to find missing no 
- subtract the sum of the given numbers from the sum of first n natural numbers.
+# to find missing no -subtract the sum of the given numbers from the sum of first n natural numbers.
